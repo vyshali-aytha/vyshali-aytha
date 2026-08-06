@@ -1,42 +1,25 @@
-# hi, I'm Vyshali
-Data Engineering Intern @ Blackbuck Insights &nbsp;|&nbsp; B.Tech Computer Science student
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0221,50:6A3FA0,100:6C9FE8&height=180&section=header&text=Vyshali%20Aytha&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=Data%20Engineering%20%C2%B7%20Full%20Stack%20Development&descAlignY=62&descSize=15&descColor=D9D0F5" width="100%"/>
 
-### ✧ About Me ✧
+</div>
 
-⋆ Third-year Computer Science student at PES University  
-⋆ Building InsightLens, an end-to-end retail analytics pipeline, as a Data Engineering Intern  
-⋆ Comfortable across the stack — from ETL pipelines to React front ends  
-⋆ Always learning, always building something new
+## About
 
----
+Third-year Computer Science student at PES University, currently interning as a Data Engineer at Blackbuck Insights. There, I'm building InsightLens, an end-to-end retail analytics pipeline — a Python ETL system, a CDC and SCD2 warehouse loader, and a unified Streamlit dashboard. Outside of that, I build full-stack and systems-level projects across web development, networking, and data analysis.
 
-### ❀ Languages & Stack ❀
+## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-e0d7f5?style=for-the-badge&logo=python&logoColor=black)
-![C](https://img.shields.io/badge/C-d7e3fc?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-fde2e4?style=for-the-badge&logo=cplusplus&logoColor=black)
-![Java](https://img.shields.io/badge/Java-cce0ff?style=for-the-badge&logo=openjdk&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-fefae0?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
 
-![React](https://img.shields.io/badge/React-fde2e4?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-e0d7f5?style=for-the-badge&logo=node.js&logoColor=black)
-![Express](https://img.shields.io/badge/Express-e0fbfc?style=for-the-badge&logo=express&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-ffe5ec?style=for-the-badge&logo=streamlit&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,react,nodejs,express,postgres,mongodb,git,github" />
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-cce0ff?style=for-the-badge&logo=postgresql&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-e2f0cb?style=for-the-badge&logo=mongodb&logoColor=black)
-![Git](https://img.shields.io/badge/Git-e0d7f5?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-d7e3fc?style=for-the-badge&logo=github&logoColor=black)
+</div>
 
----
+`ETL Pipelines` &nbsp;·&nbsp; `Data Warehousing` &nbsp;·&nbsp; `CDC / SCD2` &nbsp;·&nbsp; `Pandas` &nbsp;·&nbsp; `NumPy` &nbsp;·&nbsp; `Scikit-learn` &nbsp;·&nbsp; `Streamlit`
 
-### ˚˖° Connect °˖˚
+## Connect
 
 [vyshaliaytha@gmail.com](mailto:vyshaliaytha@gmail.com) &nbsp;·&nbsp; [github.com/vyshali-aytha](https://github.com/vyshali-aytha)
 
----
-
-learning ◦ building ◦ exploring
-small steps everyday ✿
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C9FE8,50:6A3FA0,100:0D0221&height=80&section=footer" width="100%"/>
