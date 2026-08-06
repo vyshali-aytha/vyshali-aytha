@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a Computer Science student at **PES University** with a passion for building software that solves real-world problems. I enjoy developing full-stack applications, designing efficient backend systems, and working with data engineering and machine learning to create meaningful solutions.
+I'm a Computer Science student with a passion for building software that solves real-world problems. I enjoy developing full-stack applications, designing efficient backend systems, and working with data engineering and machine learning to create meaningful solutions.
 
 Currently exploring cloud technologies, system design, and scalable software architecture.
 
