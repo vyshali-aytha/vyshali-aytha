@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vyshali Aytha</h1>
 
 <p align="center">
-  Computer Science Student • Full Stack Developer • Data Engineering Enthusiast
+  Computer Science Student 
 </p>
 
 <p align="center">
@@ -12,9 +12,7 @@
 
 ## About Me
 
-I'm a Computer Science student at **PES University** with a passion for building software that solves real-world problems. I enjoy developing full-stack applications, designing efficient backend systems, and working with data engineering and machine learning to create meaningful solutions.
-
-Currently exploring cloud technologies, system design, and scalable software architecture.
+Computer Science student with a growing interest in data engineering and full-stack development. I like building things end to end, whether that's a web app, a data pipeline, or a small systems project to understand how something works under the hood.
 
 ---
 
@@ -59,15 +57,6 @@ Currently exploring cloud technologies, system design, and scalable software arc
 </p>
 
 `Streamlit`
-
----
-
-## Currently Learning
-
-- Cloud Computing
-- Docker
-- System Design
-- Advanced Machine Learning
 
 ---
 
