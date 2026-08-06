@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:5B21B6,100:3B82F6&height=210&section=header&text=Vyshali%20Aytha&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20%7C%20Full%20Stack%20Development&descAlignY=56&descSize=17&descColor=D8D8FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FBC2EB,50:C3A6FF,100:A6C1EE&height=200&section=header&text=Vyshali%20Aytha&fontSize=42&fontColor=4B2E83&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20%C2%B7%20Full%20Stack%20Development&descAlignY=58&descSize=16&descColor=5B4B8A" width="100%"/>
 
 <a href="https://github.com/vyshali-aytha">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+InsightLens+%40+Blackbuck+Insights;ETL+Pipelines+%2B+CDC%2FSCD2+Warehousing;React+%7C+Node+%7C+PostgreSQL+%7C+Python;B.Tech+CSE+%40+PES+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=19&duration=3200&pause=1100&color=A879E6&center=true&vCenter=true&width=560&lines=Building+InsightLens+%40+Blackbuck+Insights;ETL+Pipelines+%2B+CDC%2FSCD2+Warehousing;React+%C2%B7+Node+%C2%B7+PostgreSQL+%C2%B7+Python;B.Tech+CSE+%40+PES+University" alt="Typing SVG" />
 </a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FBC2EB,50:C3A6FF,100:A6C1EE&height=4&width=560" />
 
 </div>
 
@@ -22,19 +24,19 @@ I am a Computer Science undergraduate at PES University, currently interning as 
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
 
 <br/><br/>
 
 **Web & Frameworks**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css" />
 
 <br/><br/>
 
 **Data Engineering & Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 <br/>
 <sub>ETL Pipelines &nbsp;&middot;&nbsp; Data Warehousing &nbsp;&middot;&nbsp; CDC / SCD2 &nbsp;&middot;&nbsp; psycopg2</sub>
 
@@ -48,7 +50,7 @@ I am a Computer Science undergraduate at PES University, currently interning as 
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github" />
 
 </div>
 
@@ -59,12 +61,12 @@ I am a Computer Science undergraduate at PES University, currently interning as 
 <div align="center">
 
 <a href="mailto:vyshaliaytha@gmail.com">
-  <img src="https://img.shields.io/badge/Email-vyshaliaytha%40gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0221"/>
+  <img src="https://img.shields.io/badge/Email-vyshaliaytha%40gmail.com-F5A9E4?style=flat-square&logo=gmail&logoColor=white&labelColor=B48CFF"/>
 </a>
 <a href="https://github.com/vyshali-aytha">
-  <img src="https://img.shields.io/badge/GitHub-vyshali--aytha-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221"/>
+  <img src="https://img.shields.io/badge/GitHub-vyshali--aytha-A6C1EE?style=flat-square&logo=github&logoColor=white&labelColor=B48CFF"/>
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:5B21B6,100:000000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:A6C1EE,50:C3A6FF,100:FBC2EB&height=100&section=footer" width="100%"/>
