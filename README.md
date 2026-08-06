@@ -1,25 +1,88 @@
-<div align="center">
+<h1 align="center">Hi, I'm Vyshali Aytha</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0221,50:6A3FA0,100:6C9FE8&height=180&section=header&text=Vyshali%20Aytha&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=Data%20Engineering%20%C2%B7%20Full%20Stack%20Development&descAlignY=62&descSize=15&descColor=D9D0F5" width="100%"/>
+<p align="center">
+  Computer Science Student • Full Stack Developer • Data Engineering Enthusiast
+</p>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=500&lines=Building+things+that+matter.;Full+Stack+Development.;Data+Engineering.;Machine+Learning." />
+</p>
 
-## About
+---
 
-Third-year Computer Science student at PES University, currently interning as a Data Engineer at Blackbuck Insights. There, I'm building InsightLens, an end-to-end retail analytics pipeline — a Python ETL system, a CDC and SCD2 warehouse loader, and a unified Streamlit dashboard. Outside of that, I build full-stack and systems-level projects across web development, networking, and data analysis.
+## About Me
 
-## Tech Stack
+I'm a Computer Science student at **PES University** with a passion for building software that solves real-world problems. I enjoy developing full-stack applications, designing efficient backend systems, and working with data engineering and machine learning to create meaningful solutions.
 
-<div align="center">
+Currently exploring cloud technologies, system design, and scalable software architecture.
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,react,nodejs,express,postgres,mongodb,git,github" />
+---
 
-</div>
+## Languages & Technologies
 
-`ETL Pipelines` &nbsp;·&nbsp; `Data Warehousing` &nbsp;·&nbsp; `CDC / SCD2` &nbsp;·&nbsp; `Pandas` &nbsp;·&nbsp; `NumPy` &nbsp;·&nbsp; `Scikit-learn` &nbsp;·&nbsp; `Streamlit`
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+### Data & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+</p>
+
+`Pandas` • `NumPy` • `Matplotlib` • `ETL Pipelines` • `Data Warehousing`
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+`Streamlit`
+
+---
+
+## Currently Learning
+
+- Cloud Computing
+- Docker
+- System Design
+- Advanced Machine Learning
+
+---
 
 ## Connect
 
-[vyshaliaytha@gmail.com](mailto:vyshaliaytha@gmail.com) &nbsp;·&nbsp; [github.com/vyshali-aytha](https://github.com/vyshali-aytha)
+<p>
+  <a href="mailto:vyshaliaytha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C9FE8,50:6A3FA0,100:0D0221&height=80&section=footer" width="100%"/>
+  <a href="https://github.com/vyshali-aytha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
